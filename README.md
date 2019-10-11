@@ -1,2 +1,0 @@
-# Queens
-updated version
